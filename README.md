@@ -9,7 +9,7 @@ This project applies feature engineering, statistical correlation analysis, and 
 ## Folder Structure
 - **`data/`**: Folder containing `train.csv` and `test.csv`.
 - **`utils.py`**: Utility file with helper functions and classes for feature engineering and statistical analysis.
-- **`main.py`**: Main file for data loading, preprocessing, model training, and evaluation.
+- **`smoking_prediction.ipynb`**: Main file for data loading, preprocessing, model training, and evaluation.
 
 ## Requirements
 - Python 3.8 or higher
@@ -56,7 +56,7 @@ The `Correlation_methods` class supports several correlation measures:
 
 ---
 
-## 3. Model Training and Evaluation (in main.py)
+## 3. Model Training and Evaluation (in smoking_prediction.ipynb)
 
 This script handles data loading, preprocessing, and training of ensemble models. Key components include:
 
@@ -90,10 +90,3 @@ The ensemble model’s performance is evaluated using the **ROC-AUC** metric:
 - **Cross-Validation Scores**: The script outputs cross-validation scores, along with the mean and standard deviation of ROC-AUC values.
 
 ---
-
-## Usage
-
-To run the main script and evaluate the model, use:
-
-```bash
-python main.py
