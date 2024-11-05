@@ -15,12 +15,6 @@ This project applies feature engineering, statistical correlation analysis, and 
 - Python 3.8 or higher
 - Key libraries: `pandas`, `numpy`, `scikit-learn`, `seaborn`, `matplotlib`, `phik`, `scipy`
 
-Install all dependencies with:
-```bash
-pip install -r requirements.txt
-
-
-
 # Project Modules Overview
 
 ## 1. Feature Engineering and Transformation (Feature_engineering and WoE Classes)
