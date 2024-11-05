@@ -96,7 +96,7 @@ The ensemble model’s performance is evaluated using the **ROC-AUC** metric:
 ![image](https://github.com/user-attachments/assets/86076066-6ffc-48a7-b054-d2209bba904e)
 ## **`Phi-coefficient`** between binary-feature and target:
 ![image](https://github.com/user-attachments/assets/bc85238c-d313-4d03-9224-e764b2aef74c)
-## One of the **`WoE`**s:
+## `WoE`:
 ### Feature - height: ![image](https://github.com/user-attachments/assets/cb7bddf6-9fd5-4023-bae7-caf284be7fe1)
 ### Feature - Hemoglobin: ![image](https://github.com/user-attachments/assets/6c15b511-59e4-4e62-9e47-b6c5a22a9a24)
 ## Phik_matrix:
