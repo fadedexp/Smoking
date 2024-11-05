@@ -1,3 +1,26 @@
+# Smoking Prediction (Kaggle Competition)
+
+## Overview
+This project applies feature engineering, statistical correlation analysis, and ensemble machine learning techniques to predict a target variable (`smoking`). The code is organized into three primary modules:
+1. **Feature Engineering and Transformation**
+2. **Correlation and Statistical Analysis**
+3. **Model Training and Evaluation**
+
+## Folder Structure
+- **`data/`**: Folder containing `train.csv` and `test.csv`.
+- **`utils.py`**: Utility file with helper functions and classes for feature engineering and statistical analysis.
+- **`main.py`**: Main file for data loading, preprocessing, model training, and evaluation.
+
+## Requirements
+- Python 3.8 or higher
+- Key libraries: `pandas`, `numpy`, `scikit-learn`, `seaborn`, `matplotlib`, `phik`, `scipy`
+
+Install all dependencies with:
+```bash
+pip install -r requirements.txt
+
+
+
 # Project Modules Overview
 
 ## 1. Feature Engineering and Transformation (Feature_engineering and WoE Classes)
