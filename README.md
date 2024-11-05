@@ -90,3 +90,20 @@ The ensemble model’s performance is evaluated using the **ROC-AUC** metric:
 - **Cross-Validation Scores**: The script outputs cross-validation scores, along with the mean and standard deviation of ROC-AUC values.
 
 ---
+
+# Visualization (in visualisation.ipynb)
+## **`Point-biserial`** correlations for target (smoking):
+![image](https://github.com/user-attachments/assets/86076066-6ffc-48a7-b054-d2209bba904e)
+## **`Phi-coefficient`** between binary-feature and target:
+![image](https://github.com/user-attachments/assets/bc85238c-d313-4d03-9224-e764b2aef74c)
+## One of the **`WoE`**s:
+### Feature - height: ![image](https://github.com/user-attachments/assets/cb7bddf6-9fd5-4023-bae7-caf284be7fe1)
+### Feature - Hemoglobin: ![image](https://github.com/user-attachments/assets/6c15b511-59e4-4e62-9e47-b6c5a22a9a24)
+## Phik_matrix:
+![image](https://github.com/user-attachments/assets/3b83dcdc-f587-4457-b8a1-da3ea1a6111c)
+
+# Learning curves for each pipeline:
+![image](https://github.com/user-attachments/assets/993692c1-7414-45f1-b6ee-25321653c043)
+![image](https://github.com/user-attachments/assets/af3f7a86-c060-46a8-8040-d9aaec1fdeb1)
+![image](https://github.com/user-attachments/assets/9f4989f8-1d98-4e4a-9146-14ce992d06f8)
+![image](https://github.com/user-attachments/assets/f4bb8e65-6dd4-48ae-9b0f-4cacfb86bac0)
